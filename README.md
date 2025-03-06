@@ -32,6 +32,13 @@ This mod transforms the Lansdale's engine and transmission in BeamNG.Drive into 
 3. **Select the Vehicle**:
    - In the vehicle selector, choose the Lansdale and configure it with the "2.8L I4 CRD Diesel Engine", "Garrett GT1544V" and "6-Speed Automatic Transmission (62TE)".
 
+## Todo
+
+- Add engine audio
+- Create 3D model of engine
+- Possibly add Pentastar V6 engine
+- Make config work in other vehicles
+
 ## Contributing
 
 1. Fork the repository.
