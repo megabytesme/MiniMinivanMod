@@ -28,7 +28,7 @@
             "gearboxNode:": ["tra1l"]
         },
         "vehicleController": {
-            "automaticModes": "PRND21",
+            "automaticModes": "PRNDM",
             "useSmartAggressionCalculation": false,
             "calculateOptimalLoadShiftPoints": true,
             "transmissionGearChangeDelay": 2,
